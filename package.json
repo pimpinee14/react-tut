@@ -1,0 +1,22 @@
+{
+  "name": "react-tut",
+  "version": "1.0.0",
+  "description": "tutorial about react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pimpinee14/react-tut.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Pimpinee Jatuwongwiwat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pimpinee14/react-tut/issues"
+  },
+  "homepage": "https://github.com/pimpinee14/react-tut#readme"
+}
